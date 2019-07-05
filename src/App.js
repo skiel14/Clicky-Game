@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import ImgCard from "./components/ImgCard";
+import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
+import pics from "./pics.json";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  state = {
+    pics
+  };
+
+  render() {
+    return (<>
+      <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div className="container">
+          <h2 className="nav-brand">CLICKY GAME</h2>
+          <ul className="navbar-nav mr-auto"></ul>
+        </div>
+      </nav>
+      <Title></Title>
+      <Wrapper>
+          <ImgCard/>
+      </Wrapper>
+    </>);
+  }
 }
 
 export default App;
