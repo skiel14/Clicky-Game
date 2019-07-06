@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c36dbe2.chunk.css",
+    "main.js": "/static/js/main.aa2dcb97.chunk.js",
+    "main.js.map": "/static/js/main.aa2dcb97.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.97807068.chunk.js": "/static/js/2.97807068.chunk.js",
+    "static/js/2.97807068.chunk.js.map": "/static/js/2.97807068.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.958c3cc554ea9a1727e1a441c9b28481.js": "/precache-manifest.958c3cc554ea9a1727e1a441c9b28481.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9c36dbe2.chunk.css.map": "/static/css/main.9c36dbe2.chunk.css.map",
+    "static/media/baby-bear.jpg": "/static/media/baby-bear.c618d787.jpg",
+    "static/media/baby-deer.jpg": "/static/media/baby-deer.6590bea5.jpg",
+    "static/media/baby-ducks.jpg": "/static/media/baby-ducks.3433f0ee.jpg",
+    "static/media/baby-giraffe.jpg": "/static/media/baby-giraffe.3837600c.jpg",
+    "static/media/baby-hedgehog.jpg": "/static/media/baby-hedgehog.bbe5cca4.jpg",
+    "static/media/baby-lion.jpg": "/static/media/baby-lion.65420630.jpg",
+    "static/media/baby-rabbit.jpg": "/static/media/baby-rabbit.aca4c671.jpg",
+    "static/media/baby-seal.jpg": "/static/media/baby-seal.eaca1a88.jpg",
+    "static/media/baby-turtle.jpg": "/static/media/baby-turtle.6b7bb6c8.jpg",
+    "static/media/kitten.jpg": "/static/media/kitten.f6d86a2c.jpg",
+    "static/media/lamb.jpg": "/static/media/lamb.938195d0.jpg",
+    "static/media/puppy.jpg": "/static/media/puppy.aa62df9c.jpg"
+  }
+}
